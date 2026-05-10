@@ -1,5 +1,7 @@
 # ESPPortableBoard
-
+<img width="958" height="481" alt="Screenshot 2026-05-10 at 11 56 25 AM" src="https://github.com/user-attachments/assets/754e7b1a-2f85-4107-b86a-04b3e79fb3e0" />
+<br>
+<br>
 A portable devboard designed to be a small customizable gadget. It includes 3 Buttons, a 0.91 inch OLED screen and is power by an ESPRESSIF ESP32-WROOM-32E-N4. 
 Power is from a usb port.
 
