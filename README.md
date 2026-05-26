@@ -16,7 +16,7 @@ Other Features:
 
 
 [See Kicanvas Link Here!
-](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FWjchou2%2FESPPortableBoard%2Ftree%2Fmain%2Fsrc%2Fkicad)
+](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FWjchou2%2FESPPortableBoard%2Ftree%2Fmain%2Fkicad)
 
 # Schematic
 <img width="500" alt="Screenshot 2026-05-10 at 11 50 49 AM" src="https://github.com/user-attachments/assets/a41f8c8a-a7aa-4a69-9eb8-c304f07a73b0" />
