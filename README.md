@@ -29,3 +29,5 @@ Other Features:
 
 # Case
 <img width="671" height="649" alt="Screenshot 2026-05-26 at 12 16 14 PM" src="https://github.com/user-attachments/assets/8fddb33e-1d4d-46f2-89b6-c00daa4d7b02" />
+<img width="660" height="680" alt="Screenshot 2026-05-26 at 3 07 22 PM" src="https://github.com/user-attachments/assets/0604e4a9-6495-484c-aeb5-51081663449c" />
+
