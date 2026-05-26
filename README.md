@@ -23,7 +23,6 @@ Other Features:
 
 
 # PCB
-<img width="400"  alt="Screenshot 2026-05-26 at 10 59 00 AM" src="https://github.com/user-attachments/assets/1dbf126f-8b8e-42b5-a2d5-492a7b2ce5ba" />
+<img width="400" alt="Screenshot 2026-05-26 at 11 58 34 AM" src="https://github.com/user-attachments/assets/23dc7b0f-4efb-4fb7-a202-29dab02e9465" />
 
-<img width="400" alt="Screenshot 2026-05-26 at 10 58 29 AM" src="https://github.com/user-attachments/assets/4eac9496-17f3-4b12-a347-b65a5dc6c7d6" />
-
+<img width="400" alt="Screenshot 2026-05-26 at 11 58 51 AM" src="https://github.com/user-attachments/assets/a506f903-e347-425e-84fe-2ea2c2ab14b9" />
